@@ -1,0 +1,5 @@
+build/
+build-static/
+.wercker
+coverage/
+static/
